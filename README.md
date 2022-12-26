@@ -1,8 +1,9 @@
 # Hi there, I’m Harvi! 👋
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+I am a Ph.D. Student at the University of Liverpool researching how to develop efficient numerical algorithms using fast Bayesian random forests.
+
+- 👀 I’m interested in Bayesian Statistics, Psephology and Machine Learning.
+- 🌱 I’m currently learning how to make SMC and MCMC samplers in Python.
 
 <!---
 HarviLehal/HarviLehal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
