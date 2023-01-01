@@ -12,6 +12,6 @@ You can click the Preview link to take a look at your changes.
 
 
 <div>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarviLehal&show_icons=true&hide_border=false&theme=rose_pine&langs_count=4&bg_color=DEG,2d006a,66028e,be0093" />
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=HarviLehal&show_icons=true&hide_border=false&theme=rose_pine&bg_color=DEG,2d006a,66028e,be0093" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarviLehal&show_icons=true&hide_border=false&theme=rose_pine&langs_count=4&bg_color=DEG,2d006a,42006f,560074,6b0079,be0093" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=HarviLehal&show_icons=true&hide_border=false&theme=rose_pine&bg_color=DEG,2d006a,42006f,560074,6b0079,be0093" />
 </div>
