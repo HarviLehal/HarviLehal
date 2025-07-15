@@ -1,17 +1,25 @@
 # Hi there, I’m Harvi! 👋
 
-I am a Ph.D. Student at the University of Liverpool researching how to develop efficient numerical algorithms using fast Bayesian random forests.
+I am a PhD Researcher at the Centre for Doctoral Training in Distributed Algorithms at the University of Liverpool, working in collaboration with the UK Government on methods to develop efficient numerical algorithms using fast Bayesian decision trees.
 
-- 👀 I’m interested in Bayesian Statistics, Psephology and Machine Learning.
-- 🌱 I’m currently learning how to make SMC and MCMC samplers in Python.
+- 👀 I’m interested in Bayesian Statistics, Data Classification, Psephology, and Machine Learning.
+- 🌱 I’m currently researching advanced Markov chain Monte Carlo subsampling techniques for tall data problems.
 
-<!---
-HarviLehal/HarviLehal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
 
+<p align="center">
+  <img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=HarviLehal&show_icons=true&locale=en&theme=nightowl&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height=165 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HarviLehal&langs_count=4&locale=en&theme=nightowl&count_private=true" alt="Top Languages" />
+</p>
 
-<div>
-<img height="180em" src="https://readme-stats.jader.me/api/top-langs/?username=HarviLehal&show_icons=true&hide_border=false&theme=rose_pine&langs_count=4&bg_color=DEG,2d006a,42006f,560074,6b0079,be0093&text_color=FFFFFF" />
-<img height="180em" src="https://readme-stats.jader.me/api?username=HarviLehal&show_icons=true&hide_border=false&theme=rose_pine&bg_color=DEG,2d006a,42006f,560074,6b0079,be0093&text_color=FFFFFF" />
-</div>
+---
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=HarviLehal&theme=tokyonight&row=1&column=7" alt="Trophies" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HarviLehal&label=Profile%20Visitors&color=blueviolet&style=flat" alt="Profile Visitor Counter" />
+</p>
